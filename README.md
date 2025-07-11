@@ -1,4 +1,4 @@
-# Dataxct
+# DataXact
 
 The clarity of the documentation- Studying the dataset
 
